@@ -4,10 +4,10 @@
 ###### <div align="center">A Professional Software Developer</div>  
   
 
-- 🔭 I’m currently working on [Scheduler](https://scheduler.baadhan.com/)  
+- 🔭 I’m currently working on [Online Travel Agency(OTA)](https://shopnotour.com/)  
   
 
-- 🌱 I’m currently learning PHP & Laravel  
+- 🌱 I’m currently learning Data Structure and Algorithms at phitron.io(Programming hero)
   
 
 - ❓ Ask me about anything related to Javascript,  PHP, Laravel, and related technologies  
